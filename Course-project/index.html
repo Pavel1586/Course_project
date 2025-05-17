@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="sass/style.css">
+    <title>Центр недвижимости</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div>
+                <object data="XML/logo.xml" width="250" height="100"></object>
+            </div>
+            <nav id="nav" class="nav-links">
+                <a href="nav/company.html">Компания</a>
+                <a href="nav/catalog.html">Каталог</a>
+                <a href="nav/news.html">Новости</a>
+                <a href="nav/contacts.html">Контакты</a>
+            </nav>
+        </div>
+
+        <div class="burger" id="burger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </header>
+
+    <section class="main-content">
+        <div>
+            <h1>Добро пожаловать в Центр недвижимости!</h1>
+            <p>Мы предлагаем широкий выбор жилья, от квартир до загородных домов. Найдите свое идеальное место для жизни.</p>
+        </div>
+    </section>
+
+    <section id="properties" class="property-cards">
+        <div class="property-card">
+            <a href="tabs/tab1.html">
+            <img src="img/tabs_img/new_buildings.jpeg" alt="Новостройки">
+            <h3>Новостройки</h3>
+            </a>
+        </div>
+        <div class="property-card">
+            <a href="tabs/tab2.html">
+            <img src="img/tabs_img/commercial_real_estate.jpg" alt="Коммерческая недвижимость">
+            <h3>Коммерческая недвижимость</h3>
+            </a>
+        </div>
+        <div class="property-card">
+            <a href="tabs/tab3.html">
+            <img src="img/tabs_img/Flat.jpg" alt="Квартиры">
+            <h3>Квартиры</h3>
+            </a>
+        </div>
+        <div class="property-card">
+            <a href="tabs/tab4.html">
+            <img src="img/tabs_img/Country_house.jpg" alt="Частные дома, коттеджи">
+            <h3>Частные дома, коттеджи</h3>
+            </a>
+        </div>
+        <div class="property-card">
+            <a href="tabs/tab5.html">
+            <img src="img/tabs_img/parking.jpg" alt="Гаражи, паркинги">
+            <h3>Гаражи, паркинги</h3>
+            </a>
+        </div>
+    </section>
+
+    <section class="search-section">   
+        <form action="/search" method="GET">
+            <h2>Поиск недвижимости</h2>
+            <label for="min-price">Минимальная цена (руб.):</label>
+            <input type="number" id="min-price" name="min-price" placeholder="От" min="0">
+
+            <label for="max-price">Максимальная цена (руб.):</label>
+            <input type="number" id="max-price" name="max-price" placeholder="До" min="0">
+
+            <label for="town">Населённый пункт:</label>
+            <input type="text" id="town" name="town" placeholder="Введите населённый пункт">
+
+            <label for="region">Область:</label>
+            <input type="text" id="region" name="region" placeholder="Введите область">
+
+            <label for="rooms">Количество комнат:</label>
+            <select id="rooms" name="rooms">
+                <option value="">Не важно</option>
+                <option value="1">1 комната</option>
+                <option value="2">2 комнаты</option>
+                <option value="3">3 комнаты</option>
+                <option value="4">4 комнаты</option>
+                <option value="5+">5 и более комнат</option>
+            </select>
+
+            <label for="min-area">Минимальная площадь (м²):</label>
+            <input type="number" id="min-area" name="min-area" placeholder="От" min="0">
+
+            <label for="max-area">Максимальная площадь (м²):</label>
+            <input type="number" id="max-area" name="max-area" placeholder="До" min="0">
+
+            <button type="submit">Найти</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Центр недвижимости</p>
+    </footer>
+    
+    <script src="Scripts/burger.js"></script>
+</body>
+</html>

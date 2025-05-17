@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advertisements>
+    <advertisement>
+        <title>Продаётся загородный коттедж</title>
+        <price>12 300 000</price>
+        <address>Ленинградская область, Всеволожский район, пос. Романовка</address>
+        <area>180</area>
+        <rooms>5</rooms>
+        <land>12</land>
+        <description>Современный дом с тёплыми полами, камином и террасой. Рядом лес и озеро.</description>
+        <contact>
+            <name>Иван Петров</name>
+            <phone>+7 (900) 123-45-67</phone>
+            <email>ivan.petrov@example.com</email>
+        </contact>
+    </advertisement>
+</advertisements>

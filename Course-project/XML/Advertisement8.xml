@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advertisements>
+    <advertisement>
+        <title>Продаётся квартира в новостройке</title>
+        <price>12 300 000</price>
+        <address>Маршала Лосика ул, 57, Минск</address>
+        <area>64</area>
+        <rooms>2</rooms>
+        <description>Современная двухкомнатная квартира в новом жилом комплексе комфорт-класса. 
+        Чистовая отделка от застройщика, просторная кухня, раздельный санузел, застеклённая лоджия.
+        Дом сдан, идет заселение. Во дворе — детская площадка, рядом — магазины, школа, поликлиника 
+        и станция метро в пешей доступности. Отличный вариант для жизни или инвестиций.
+        </description>
+        <contact>
+            <name>Иван Петров</name>
+            <phone>+7 (900) 123-45-67</phone>
+            <email>ivan.petrov@example.com</email>
+        </contact>
+        <!-- <images>
+            <image>../img/Advertisement_img/1.jpg</image>
+            <image>../img/Advertisement_img/2.jpg</image>
+            <image>../img/Advertisement_img/3.jpg</image>
+        </images> -->
+    </advertisement>
+</advertisements>

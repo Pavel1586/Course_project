@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="xml-file" content="../XML/Advertisement10.xml">
+    <title>Объявление - Продажа дома</title>
+    <link rel="stylesheet" href="../sass/Advertisements.css">
+</head>
+<body>
+    <div class="page-wrapper">
+    <header>
+        <a href="../index.html">
+            <h1>Центр недвижимости</h1>
+        </a>
+    </header>
+
+    <main class="listing">
+        <div class="gallery">
+            <div class="image-container">
+                <img src="../img/Advertisement_img/1.10.jpg" alt="Фото дома">
+            </div>
+            <div  class="image-container">
+                <img src="../img/Advertisement_img/2.10.jpg" alt="Фото дома">
+            </div>
+            <div class="image-container">
+                <img src="../img/Advertisement_img/3.10.jpg" alt="Фото дома">
+            </div>
+        </div>
+        
+        <div class="details">
+            <h2 id="ad-title"></h2>
+            <p><strong>Цена:</strong><span id="ad-price"></span></p>
+            <p><strong>Адрес:</strong><span id="ad-address"></span></p>
+            <p><strong>Общая площадь:</strong><span id="ad-area"></span></p>
+            <p><strong>Количество комнат:</strong> <span id="ad-rooms"></span></p>
+            <p><strong>Описание:</strong><span id="ad-description"></span></p>
+        </div>
+    </main>
+    
+    <section class="contact">
+        <h3>Свяжитесь с продавцом</h3>
+        <p><strong>Имя:</strong> <span id="contact-name"></span></p>
+        <p><strong>Телефон:</strong> <span id="contact-phone"></span></p>
+        <p><strong>Email:</strong> <span id="contact-email"></span></p>
+        <button>Оставить заявку</button>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Центр недвижимости</p>
+    </footer>
+    </div>
+    <script src="../Scripts/Advertisement.js"></script>
+</body>
+</html>

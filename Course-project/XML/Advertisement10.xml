@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advertisements>
+    <advertisement>
+        <title>Продаётся гараж в охраняемом кооперативе</title>
+        <price>8500000</price>
+        <address>Матусевича ул, 37, Минск</address>
+        <area>18</area>
+        <description>Просторный гараж в капитальном исполнении с металлическими воротами. Электричество проведено,
+        освещение внутри, сухой и тёплый. Территория охраняется, круглосуточный доступ, шлагбаум, видеонаблюдение.
+        </description>
+        <contact>
+            <name>Иван Петров</name>
+            <phone>+7 (900) 123-45-67</phone>
+            <email>ivan.petrov@example.com</email>
+        </contact>
+        <!-- <images>
+            <image>../img/Advertisement_img/1.jpg</image>
+            <image>../img/Advertisement_img/2.jpg</image>
+            <image>../img/Advertisement_img/3.jpg</image>
+        </images> -->
+    </advertisement>
+</advertisements>

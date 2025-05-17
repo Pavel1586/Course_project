@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advertisements>
+    <advertisement>
+        <title>Продаётся машиноместо на наземной парковке</title>
+        <price>700 000</price>
+        <address>Калининградский переулок, 21к1, Минск</address>
+        <area>15</area>
+        <description>Просторное и удобное машиноместо на охраняемой наземной парковке рядом с домом. Удобный заезд, хорошее освещение, круглосуточный доступ. Подходит как для личного пользования, так и для сдачи в аренду.</description>
+        <contact>
+            <name>Иван Петров</name>
+            <phone>+7 (900) 123-45-67</phone>
+            <email>ivan.petrov@example.com</email>
+        </contact>
+        <!-- <images>
+            <image>../img/Advertisement_img/1.jpg</image>
+            <image>../img/Advertisement_img/2.jpg</image>
+            <image>../img/Advertisement_img/3.jpg</image>
+        </images> -->
+    </advertisement>
+</advertisements>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advertisements>
+    <advertisement>
+        <title>Продаётся торговое помещение</title>
+        <price>15 500 000</price>
+        <address>Москва, Южное Бутово, ул. Адмирала Лазарева, д. 27</address>
+        <area>95</area>
+        <land>12</land>
+        <description>Помещение с отдельным входом и витринными окнами, находится на первом этаже жилого дома. Высокий пешеходный трафик, рядом метро и остановка. Все коммуникации подключены.</description>
+        <contact>
+            <name>Иван Петров</name>
+            <phone>+7 (900) 123-45-67</phone>
+            <email>ivan.petrov@example.com</email>
+        </contact>
+    </advertisement>
+</advertisements>

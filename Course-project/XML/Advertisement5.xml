@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advertisements>
+    <advertisement>
+        <title>Продаётся машиноместо в паркинге</title>
+        <price>980 000</price>
+        <address>Рыбалко ул, 13А, Минск</address>
+        <area>15</area>
+        <description>Просторное и удобное машиноместо в тёплом подземном паркинге. Удобный въезд, охрана, видеонаблюдение. Рядом с лифтом, легко добраться до квартиры. Идеально для жителей дома и инвестиций.</description>
+        <contact>
+            <name>Иван Петров</name>
+            <phone>+7 (900) 123-45-67</phone>
+            <email>ivan.petrov@example.com</email>
+        </contact>
+    </advertisement>
+</advertisements>

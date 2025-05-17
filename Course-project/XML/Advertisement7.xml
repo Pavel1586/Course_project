@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advertisements>
+    <advertisement>
+        <title>Отличный современный офис в центре Минска</title>
+        <price>18 500 000</price>
+        <address>Маяковского ул, 35, Минск</address>
+        <area>87</area>
+        <description>Светлое офисное помещение с качественным ремонтом в престижном районе Минска. Удобная планировка, отдельный вход, система кондиционирования, высокоскоростной интернет. Отличная транспортная доступность, рядом метро, кафе, банки и административные здания. Идеально подойдёт для компании, коворкинга или представительского офиса.</description>
+        <contact>
+            <name>Иван Петров</name>
+            <phone>+7 (900) 123-45-67</phone>
+            <email>ivan.petrov@example.com</email>
+        </contact>
+        <!-- <images>
+            <image>../img/Advertisement_img/1.jpg</image>
+            <image>../img/Advertisement_img/2.jpg</image>
+            <image>../img/Advertisement_img/3.jpg</image>
+        </images> -->
+    </advertisement>
+</advertisements>

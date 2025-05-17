@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advertisements>
+    <advertisement>
+        <title>Продаётся уютный дом</title>
+        <price>8500000</price>
+        <address>Московская область, г. Сергиев Посад</address>
+        <area>120</area>
+        <rooms>4</rooms>
+        <land>10</land>
+        <description>Прекрасный дом с удобной планировкой, гаражом и садом. Тихий район, развитая инфраструктура.</description>
+        <contact>
+            <name>Иван Петров</name>
+            <phone>+7 (900) 123-45-67</phone>
+            <email>ivan.petrov@example.com</email>
+        </contact>
+    </advertisement>
+</advertisements>

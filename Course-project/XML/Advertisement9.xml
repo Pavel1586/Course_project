@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advertisements>
+    <advertisement>
+        <title>ППродаётся квартира</title>
+        <price>18 700 000</price>
+        <address>Жореса Алфёрова ул, 7, Минск, мкр. Минск-Мир</address>
+        <area>86</area>
+        <rooms>4</rooms>
+        <description>Стильная трёхкомнатная квартира в самом сердце Петербурга. Выполнен дизайнерский ремонт 
+        с использованием качественных материалов. Продаётся с мебелью и техникой. Высокие потолки, окна на две 
+        стороны, тёплый пол, кондиционеры, шумоизоляция. Закрытый двор с видеонаблюдением, парковка. В пешей 
+        доступности метро, Невский проспект, театры и рестораны.
+        </description>
+        <contact>
+            <name>Иван Петров</name>
+            <phone>+7 (900) 123-45-67</phone>
+            <email>ivan.petrov@example.com</email>
+        </contact>
+        <!-- <images>
+            <image>../img/Advertisement_img/1.jpg</image>
+            <image>../img/Advertisement_img/2.jpg</image>
+            <image>../img/Advertisement_img/3.jpg</image>
+        </images> -->
+    </advertisement>
+</advertisements>

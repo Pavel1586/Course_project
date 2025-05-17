@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advertisements>
+    <advertisement>
+        <title>Продаётся уютная квартира</title>
+        <price>9 800 000</price>
+        <address>Санкт-Петербург, Приморский район, ул. Оптиков, д. 45</address>
+        <area>78</area>
+        <rooms>3</rooms>
+        <description>Светлая квартира с современным ремонтом, панорамными окнами и просторной кухней-гостиной. Рядом метро, парк и школы.</description>
+        <contact>
+            <name>Иван Петров</name>
+            <phone>+7 (900) 123-45-67</phone>
+            <email>ivan.petrov@example.com</email>
+        </contact>
+    </advertisement>
+</advertisements>
